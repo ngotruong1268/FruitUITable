@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  FruitUITable
 //
 //  Created by Ngô Sỹ Trường on 5/9/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
